@@ -1,9 +1,12 @@
 {
-	"name": "vuejs-beginner",
-	"version": "1.0.0",
-	"description": "Vue.js for dummies",
-	"author": "Dj0nny <frank96990@gmail.com>",
-	"private": true,
+	"name": "fractaloid",
+	"version": "2.3.1",
+	"author": "trucaalex9",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+	 	"url": "git+https://github.com/trucaalex9/fractaloid.git"
+	},
 	"scripts": {
 		"serve": "vue-cli-service serve",
 		"build": "vue-cli-service build",
